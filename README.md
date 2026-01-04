@@ -38,7 +38,7 @@
 
 El sistema permite gestionar de forma eficiente los créditos, calcular intereses (nominales o efectivos), controlar límites de crédito, generar reportes de saldos y pagos, además de manejar tasas de interés moratorio para clientes con deudas vencidas.
 
-El proyecto fue desarrollado como parte del curso de **Aplicaciones para Negocios Web** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, aplicando metodologías ágiles y buenas prácticas de desarrollo de software.
+El proyecto fue desarrollado como parte del curso de **Finanzas e Ingeniería Económica** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**, aplicando metodologías ágiles y buenas prácticas de desarrollo de software.
 
 ---
 
